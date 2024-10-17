@@ -1,1 +1,2 @@
 ola, meu nome é amanda.
+olá, eu sou estudante front-end
